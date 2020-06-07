@@ -12,3 +12,6 @@
   - 本地搭建环境：eclipse4.8.0（代号：Photon）、jdk1.8、tomcat8.0、mysql5.7
   - 登录地址：http://localhost:8080/yosebook-ssm  用户名/密码：yosebook/1234
   - 管理员后台登录地址：http://localhost:8080/yosebook-ssm/admin  用户名/密码：liubei/123
+
+  - idea+maven版移步另一个项目地址：https://gitee.com/liddhome/yosebook-ssm-maven
+  - 搞了个学习生活赚钱交流找对象娱乐微信哈哈：wx_lidd
